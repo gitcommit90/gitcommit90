@@ -2,7 +2,7 @@
 
 Founder and director of [Public Bytes](https://publicbytes.org).
 
-I'm Senior Manager of Digital Operations at Tennis Channel. I have over six years of experience in media and broadcast operations, and over three years of experience building generative AI tools, data pipelines, and software automations. At work I partner with business units to frame operational problems into technical requirements and evaluate whether to build custom software or buy vendor products. I have built, tested, and deployed over 25 production applications and machine learning models that automate reporting, standardize unstructured data, and replace third-party software contracts. I also train non-technical teams on how to use AI tools safely and effectively in their daily work.
+I'm an AI-native technical engineering leader with over six years of experience in media and broadcast operations, and over three years of experience building generative AI tools, data pipelines, and software automations. At Tennis Channel, where I'm Senior Manager of Digital Operations, I partner with business units to run discovery sessions, frame operational problems into technical requirements, and decide whether to build custom software or buy vendor products. I've built, tested, and deployed over 25 production applications and machine learning models that automate reporting, standardize unstructured data, and replace third-party software contracts. I also train non-technical teams to use AI tools safely and effectively in their daily work. Through Public Bytes, I also quantize, optimize, and serve open models on NVIDIA DGX Spark. That work is below.
 
 ## Model work on NVIDIA DGX Spark
 
